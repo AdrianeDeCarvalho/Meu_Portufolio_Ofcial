@@ -39,8 +39,11 @@ Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback
 ## Bootcamps - Python AI Backend Developer - VIVO
 ---
 O bootcamp Coding The Future Vivo - Python AI Backend Developer é aprenda a codar com uma linguagem dinâmica, de sintaxe simplificada e muito poderosa. 
+
 Esse bootcamp é divido em 6 módulos, 32 cursos, 7 desafios de projeto, 2 desafios de código e 1 live.
-Ainda não termei todos os cursos, mas vou atualizando aqui conforme eu for fazendo.
+
+Ainda não termei todos os cursos, mas vou  continuar atualizando aqui conforme eu for terminando os cursos.
+
 Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 
 ### Módulo 1
