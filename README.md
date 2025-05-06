@@ -3,21 +3,19 @@
 
 :wave: Olá, eu sou Adriane de Carvalho, estou graduando Sistemas de Informação na UNISINOS.
 
-Gosto muito da área de wed desenvolvedor.
-
 Estou estudando sobre BackEnd com Python :snake:.
 
 Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback sobre cada um.
 
 | Curso em Vídeo | Certificado |
 |---|---|
-|:gear: Algoritmo | [Clique aqui]() |
-|:snake: Python 3 - Mundo 1 | [Clique aqui]() |
-|:snake: Python 3 - Mundo 2 | [Clique aqui]() |
-|:snake: Python 3 - Mundo 3 | [Clique aqui]() |
-|:hotsprings: Java Básico | [Clique aqui]() |
-|☕ Java POO | [Clique aqui]() |
-|:octocat: Gt e GitHub | [Clique aqui]() |
+|:gear: Algoritmo | Certificado paga não retirado ainda! |
+|:snake: Python 3 - Mundo 1 | Certificado paga não retirado ainda! |
+|:snake: Python 3 - Mundo 2 | Certificado paga não retirado ainda! |
+|:snake: Python 3 - Mundo 3 | Certificado paga não retirado ainda! |
+|:hotsprings: Java Básico | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf) |
+|☕ Java POO | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Java-POO-40-Horas-Certificado-Curso-em-Video.pdf) |
+|:octocat: Gt e GitHub | Certificado paga não retirado ainda! |
 
 
 | Cursos Extras  | Certificado |
@@ -30,7 +28,7 @@ Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback
 |---|---|
 | Desenvolvimento Pessoal - Comunicação Não Violenta | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Desenvolvimento%20Pessoal%20-%20Comunica%C3%A7%C3%A3o%20N%C3%A3o%20Violenta.pdf) |
 | Empreendedorismo - Autoconhecimento Empreendedor e Rede | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Empreendedorismo%20-%20Autoconhecimento%20Empreendedor%20e%20Rede.pdf) |
-| Empreendedorismo - Problemas, Ideias e Opotunidades | [Clique aqui]() |
+| Empreendedorismo - Problemas, Ideias e Opotunidades | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Empreendedorismo%20-%20Problemas%2C%20Ideias%20e%20Opotunidades.pdf) |
 | Fundamentos de data science e inteligencia artificial | [Clique aqui]() |
 | Liderança - Erros, falhas e armadilhas na liderança | [Clique aqui]() |
 | Liderança - Liderando equipes do jeito certo | [Clique aqui]() |
