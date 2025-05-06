@@ -13,9 +13,9 @@ Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback
 |:snake: Python 3 - Mundo 1 | Certificado paga não retirado ainda! |
 |:snake: Python 3 - Mundo 2 | Certificado paga não retirado ainda! |
 |:snake: Python 3 - Mundo 3 | Certificado paga não retirado ainda! |
-|:hotsprings: Java Básico | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf) |
-|☕ Java POO | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Java-POO-40-Horas-Certificado-Curso-em-Video.pdf) |
-|:octocat: Gt e GitHub | Certificado paga não retirado ainda! |
+|:hotsprings:☕ Java Básico | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf) |
+|:hotsprings:☕ Java POO | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Java-POO-40-Horas-Certificado-Curso-em-Video.pdf) |
+|:octocat: Git e GitHub | Certificado paga não retirado ainda! |
 
 
 
@@ -52,6 +52,7 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Versionamento de Código com Git e GitHub | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Versionamento%20de%20C%C3%B3digo%20com%20Git%20e%20GitHub.pdf) |
 | Desafio de Projetos: Crie um Portifólio Vencedor | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Desafio%20de%20Proetos_Criando%20um%20Portif%C3%B3lio%20Vencedor%20-%20Copia.pdf) |
 | Contribuindo em um Projeto Open Source no GitHub | [Clique aqui]() |
+---
 
 ## Módulo 2
 | Dominando Python e Suas Estruturas de Dados | Certificado |
@@ -67,8 +68,9 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Dominando Funções Python |  |
 | Otimizando o Sistema Bancário com Funções Python |  |
 | Dominando os Sistemas Básicos do Python |  |
+---
 
-
+## Módulo 3
 | Orientação a Objetos e Boas Práticas em Python | Certificado |
 |---|---|
 | Introdução à POO com Pyhton |  |
@@ -82,22 +84,25 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Manipulando Arquivos m Python |  |
 | Gerenciamento de Pacotes, Convenções e Boas Práticas Pyhton |  |
 | Explorando POO com Pyhton |  |
+---
 
-
+## Módulo 4
 | Banco de Dados SQL e NoSQL para Devs Backend | Certificado |
 |---|---|
 | Introdução a Banco de Dados Relacionais (SQL) |  |
 | Introdução a Banco de Dados NoSQL |  |
 | Explorando Banco de Dados Relacionais com Python DB API |  |
+---
 
-
+## Módulo 5
 | Explorando o FastAPI na Prática com TDD | Certificado |
 |---|---|
 | Introdução a Aplicação Rest |  |
 | Desenvolvendo sua Primeira API com FastAPI, Python e Docker |  |
 | Criando uma API com FastAPI Utilizando TDD |  |
+---
 
-
+## Módulo 6
 | Desmetificando os Pilares da Iteligência Artifial(IA) | Certificado |
 |---|---|
 | Aplicações Práticas de Inteligência Artificial |  |
@@ -106,8 +111,6 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Visão Computacional |  |
 | O que são IAs Generativas |  |
 | Natural ou Fake Natty? Como Vencer na Era das IAs Generativas |  |
-|  |  |
-|  |  |
 
 
 
