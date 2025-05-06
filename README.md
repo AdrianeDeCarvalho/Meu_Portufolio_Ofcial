@@ -18,10 +18,12 @@ Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback
 |:octocat: Gt e GitHub | Certificado paga não retirado ainda! |
 
 
+
 | Cursos Extras  | Certificado |
 |---|---|
 | Análise de Dados no PowerBI | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/An%C3%A1lise%20de%20Dados%20no%20Power%20BI.pdf) |
 | Introdução à Gestão de Prjetos | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Introdu%C3%A7%C3%A3o%20%C3%A0%20Gest%C3%A3o%20%20de%20Projetos.pdf) |
+
 
 
 | Cursos Extras Oferecidos pela Faculdade | Certificado |
@@ -29,10 +31,9 @@ Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback
 | Desenvolvimento Pessoal - Comunicação Não Violenta | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Desenvolvimento%20Pessoal%20-%20Comunica%C3%A7%C3%A3o%20N%C3%A3o%20Violenta.pdf) |
 | Empreendedorismo - Autoconhecimento Empreendedor e Rede | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Empreendedorismo%20-%20Autoconhecimento%20Empreendedor%20e%20Rede.pdf) |
 | Empreendedorismo - Problemas, Ideias e Opotunidades | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Empreendedorismo%20-%20Problemas%2C%20Ideias%20e%20Opotunidades.pdf) |
-| Fundamentos de data science e inteligencia artificial | [Clique aqui]() |
-| Liderança - Erros, falhas e armadilhas na liderança | [Clique aqui]() |
-| Liderança - Liderando equipes do jeito certo | [Clique aqui]() |
-| Métodos ágeis Scrum | [Clique aqui]() |
+| Liderança - Erros, falhas e armadilhas na liderança | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Lideran%C3%A7a%20-%20Erros%2C%20falhas%20e%20armadilhas%20na%20lideran%C3%A7a.pdf) |
+| Liderança - Liderando equipes do jeito certo | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Lideran%C3%A7a%20-%20Liderando%20equipes%20do%20jeito%20certo.pdf) |
+| Métodos ágeis Scrum | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Share%20Point.pdf) |
 
 
 
