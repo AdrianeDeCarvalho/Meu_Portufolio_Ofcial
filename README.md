@@ -47,8 +47,6 @@ Ainda não termei todos os cursos, mas vou  continuar atualizando aqui conforme 
 Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 
 ### Módulo 1
-(feedback)
-
 | Python Essencial e Desenvolvimento Colaborativo com Git  | Certificado |
 |---|---|
 | Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Bootcamps%20DIO_%20Educa%C3%A7%C3%A3o%20Gratuita%20e%20Empregabilidade%20Juntas%20-%20Copia.pdf) |
@@ -57,12 +55,13 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Versionamento de Código com Git e GitHub | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Versionamento%20de%20C%C3%B3digo%20com%20Git%20e%20GitHub.pdf) |
 | Desafio de Projetos: Crie um Portifólio Vencedor | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Desafio%20de%20Proetos_Criando%20um%20Portif%C3%B3lio%20Vencedor%20-%20Copia.pdf) |
 | Contribuindo em um Projeto Open Source no GitHub | [Clique aqui]() |
+
+(feedback)
+Esse módulo é muito essencial para quem até então não tem conhecimento em Python, Git e GitHub. Os capítulos nos quais começam a introdução ao Python foram super tranquilos para mim, pois já possuía um conhecimento a respeito, mas mesmo assim foi bom rever esse conteúdo. A parte nova para mim até então é a do Git e GitHub, gostei muito do conteúdo desse bootcamp, mas acabei indo atrás de mais videoaulas sobre isso. Foi aí que dei uma parada no bootcamp e fiz o curso de Git e GitHub do "Curso em Vídeo" do professor Gustavo Guanabara. Retomei o bootcamp logo em seguida, continuo seguindo essa jornada, na qual pretendo trazer aqui só os códigos dos desafios.
+ 
 ---
 
 ## Módulo 2
-(feedback)
-
-[Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Desafio_Sistema%20Bancario.py) para ver o código do capítulo "Criando um Sistema Bancário com Python".
 
 | Dominando Python e Suas Estruturas de Dados | Certificado |
 |---|---|
@@ -77,6 +76,11 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Dominando Funções Python |  |
 | Otimizando o Sistema Bancário com Funções Python |  |
 | Dominando os Sistemas Básicos do Python |  |
+
+(feedback)
+
+[Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Desafio_Sistema%20Bancario.py) para ver o código do capítulo "Criando um Sistema Bancário com Python".
+
 ---
 
 ## Módulo 3
@@ -95,6 +99,7 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Manipulando Arquivos m Python |  |
 | Gerenciamento de Pacotes, Convenções e Boas Práticas Pyhton |  |
 | Explorando POO com Pyhton |  |
+
 ---
 
 ## Módulo 4
@@ -105,6 +110,7 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Introdução a Banco de Dados Relacionais (SQL) |  |
 | Introdução a Banco de Dados NoSQL |  |
 | Explorando Banco de Dados Relacionais com Python DB API |  |
+
 ---
 
 ## Módulo 5
@@ -115,6 +121,7 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Introdução a Aplicação Rest |  |
 | Desenvolvendo sua Primeira API com FastAPI, Python e Docker |  |
 | Criando uma API com FastAPI Utilizando TDD |  |
+
 ---
 
 ## Módulo 6
@@ -126,6 +133,7 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 | Algoritmos e Aprendizado de Máquina |  |
 | Processamento de Linguagem Natural |  |
 | Visão Computacional |  |
+
 | O que são IAs Generativas |  |
 | Natural ou Fake Natty? Como Vencer na Era das IAs Generativas |  |
 
