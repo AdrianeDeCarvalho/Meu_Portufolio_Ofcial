@@ -47,6 +47,8 @@ Ainda não termei todos os cursos, mas vou  continuar atualizando aqui conforme 
 Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 
 ### Módulo 1
+(feedback)
+
 | Python Essencial e Desenvolvimento Colaborativo com Git  | Certificado |
 |---|---|
 | Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Bootcamps%20DIO_%20Educa%C3%A7%C3%A3o%20Gratuita%20e%20Empregabilidade%20Juntas%20-%20Copia.pdf) |
@@ -58,6 +60,10 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 ---
 
 ## Módulo 2
+(feedback)
+
+[Clique aqui]() para ver o código do capítulo "Criando um Sistema Bancário com Python".
+
 | Dominando Python e Suas Estruturas de Dados | Certificado |
 |---|---|
 | Tipos de Operadores com Python |  |
@@ -74,6 +80,8 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 ---
 
 ## Módulo 3
+(feedback)
+
 | Orientação a Objetos e Boas Práticas em Python | Certificado |
 |---|---|
 | Introdução à POO com Pyhton |  |
@@ -90,6 +98,8 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 ---
 
 ## Módulo 4
+(feedback)
+
 | Banco de Dados SQL e NoSQL para Devs Backend | Certificado |
 |---|---|
 | Introdução a Banco de Dados Relacionais (SQL) |  |
@@ -98,6 +108,8 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 ---
 
 ## Módulo 5
+(feedback)
+
 | Explorando o FastAPI na Prática com TDD | Certificado |
 |---|---|
 | Introdução a Aplicação Rest |  |
@@ -106,6 +118,8 @@ Abaixo teremos uma ordem dos módulos com cada curso que contém nele.
 ---
 
 ## Módulo 6
+(feedback)
+
 | Desmetificando os Pilares da Iteligência Artifial(IA) | Certificado |
 |---|---|
 | Aplicações Práticas de Inteligência Artificial |  |
