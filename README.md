@@ -65,17 +65,17 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Dominando Python e Suas Estruturas de Dados | Certificado |
 |---|---|
-| Tipos de Operadores com Python |  |
-| Estruturas Condicionais e de Repetição em Pyhton |  |
-| Manipulando Strings com Python |  |
-| Criando um Sistema Bancário com Python |  |
-| Trabalhando com listas |  |
-| Conhecendo Tuplas em Python |  |
-| Explorando Conjuntos em Python |  |
-| Apredendo a Utilizar Dicionários em Python |  |
-| Dominando Funções Python |  |
-| Otimizando o Sistema Bancário com Funções Python |  |
-| Dominando os Sistemas Básicos do Python |  |
+| Tipos de Operadores com Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Tipos%20de%20Operadores%20com%20Python.pdf) |
+| Estruturas Condicionais e de Repetição em Pyhton | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Estruturas%20Condicionais%20e%20de%20Repeti%C3%A7%C3%A3o%20em%20Python.pdf) |
+| Manipulando Strings com Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Manipulando%20Strings%20com%20Python.pdf) |
+| Criando um Sistema Bancário com Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python.pdf) |
+| Trabalhando com listas | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Trabalhando%20com%20Listas%20em%20Python.pdf) |
+| Conhecendo Tuplas em Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Conhecendo%20Tuplas%20em%20Python.pdf) |
+| Explorando Conjuntos em Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Explorando%20Conjuntos%20em%20Python.pdf) |
+| Apredendo a Utilizar Dicionários em Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Aprendendo%20a%20Utilizar%20Dicion%C3%A1rios%20em%20Python.pdf) |
+| Dominando Funções Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Dominando%20Fun%C3%A7%C3%B5es%20Python.pdf) |
+| Otimizando o Sistema Bancário com Funções Python | [Clique aqui]() |
+| Dominando os Sistemas Básicos do Python | [Clique aqui]() |
 
 (feedback)
 
@@ -88,17 +88,17 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Orientação a Objetos e Boas Práticas em Python | Certificado |
 |---|---|
-| Introdução à POO com Pyhton |  |
-| Aprendendo o Coceito de Herança com Python |  |
-| Aplicado Encapsulamento em Python |  |
-| Conhecendo Polimorfismo em Python |  |
-| Interface e Classes Abstratas com Python |  |
-| Modelando o Sistema Bancário em POO com Python |  |
-| Decoradores, Iteradores e  Geradores com Python |  |
-| Lidando com Data, Hora e Fuso Horário no Python |  |
-| Manipulando Arquivos m Python |  |
-| Gerenciamento de Pacotes, Convenções e Boas Práticas Pyhton |  |
-| Explorando POO com Pyhton |  |
+| Introdução à POO com Pyhton | [Clique aqui]() |
+| Aprendendo o Coceito de Herança com Python | [Clique aqui]() |
+| Aplicado Encapsulamento em Python | [Clique aqui]() |
+| Conhecendo Polimorfismo em Python | [Clique aqui]() |
+| Interface e Classes Abstratas com Python | [Clique aqui]() |
+| Modelando o Sistema Bancário em POO com Python | [Clique aqui]() |
+| Decoradores, Iteradores e  Geradores com Python | [Clique aqui]() |
+| Lidando com Data, Hora e Fuso Horário no Python | [Clique aqui]() |
+| Manipulando Arquivos m Python | [Clique aqui]() |
+| Gerenciamento de Pacotes, Convenções e Boas Práticas Pyhton | [Clique aqui]() |
+| Explorando POO com Pyhton | [Clique aqui]() |
 
 ---
 
@@ -107,9 +107,9 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Banco de Dados SQL e NoSQL para Devs Backend | Certificado |
 |---|---|
-| Introdução a Banco de Dados Relacionais (SQL) |  |
-| Introdução a Banco de Dados NoSQL |  |
-| Explorando Banco de Dados Relacionais com Python DB API |  |
+| Introdução a Banco de Dados Relacionais (SQL) | [Clique aqui]() |
+| Introdução a Banco de Dados NoSQL | [Clique aqui]() |
+| Explorando Banco de Dados Relacionais com Python DB API | [Clique aqui]() |
 
 ---
 
@@ -118,9 +118,9 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Explorando o FastAPI na Prática com TDD | Certificado |
 |---|---|
-| Introdução a Aplicação Rest |  |
-| Desenvolvendo sua Primeira API com FastAPI, Python e Docker |  |
-| Criando uma API com FastAPI Utilizando TDD |  |
+| Introdução a Aplicação Rest | [Clique aqui]() |
+| Desenvolvendo sua Primeira API com FastAPI, Python e Docker | [Clique aqui]() |
+| Criando uma API com FastAPI Utilizando TDD | [Clique aqui]() |
 
 ---
 
@@ -129,13 +129,12 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Desmetificando os Pilares da Iteligência Artifial(IA) | Certificado |
 |---|---|
-| Aplicações Práticas de Inteligência Artificial |  |
-| Algoritmos e Aprendizado de Máquina |  |
-| Processamento de Linguagem Natural |  |
-| Visão Computacional |  |
-
-| O que são IAs Generativas |  |
-| Natural ou Fake Natty? Como Vencer na Era das IAs Generativas |  |
+| Aplicações Práticas de Inteligência Artificial | [Clique aqui]() |
+| Algoritmos e Aprendizado de Máquina | [Clique aqui]() |
+| Processamento de Linguagem Natural | [Clique aqui]() |
+| Visão Computacional | [Clique aqui]() |
+| O que são IAs Generativas | [Clique aqui]() |
+| Natural ou Fake Natty? Como Vencer na Era das IAs Generativas | [Clique aqui]() |
 
 
 
