@@ -74,8 +74,8 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 | Explorando Conjuntos em Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Explorando%20Conjuntos%20em%20Python.pdf) |
 | Apredendo a Utilizar Dicionários em Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Aprendendo%20a%20Utilizar%20Dicion%C3%A1rios%20em%20Python.pdf) |
 | Dominando Funções Python | [Clique aqui](https://github.com/AdrianeDeCarvalho/Meu_Portufolio_Ofcial/blob/main/Certificados_copia/Certificados/Dominando%20Fun%C3%A7%C3%B5es%20Python.pdf) |
-| Otimizando o Sistema Bancário com Funções Python | [Clique aqui]() |
-| Dominando os Sistemas Básicos do Python | [Clique aqui]() |
+| Otimizando o Sistema Bancário com Funções Python | [Clique aqui].() |
+| Dominando os Sistemas Básicos do Python | [Clique aqui].() |
 
 (feedback)
 
@@ -88,17 +88,17 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Orientação a Objetos e Boas Práticas em Python | Certificado |
 |---|---|
-| Introdução à POO com Pyhton | [Clique aqui]() |
-| Aprendendo o Coceito de Herança com Python | [Clique aqui]() |
-| Aplicado Encapsulamento em Python | [Clique aqui]() |
-| Conhecendo Polimorfismo em Python | [Clique aqui]() |
-| Interface e Classes Abstratas com Python | [Clique aqui]() |
-| Modelando o Sistema Bancário em POO com Python | [Clique aqui]() |
-| Decoradores, Iteradores e  Geradores com Python | [Clique aqui]() |
-| Lidando com Data, Hora e Fuso Horário no Python | [Clique aqui]() |
-| Manipulando Arquivos m Python | [Clique aqui]() |
-| Gerenciamento de Pacotes, Convenções e Boas Práticas Pyhton | [Clique aqui]() |
-| Explorando POO com Pyhton | [Clique aqui]() |
+| Introdução à POO com Pyhton | [Clique aqui].() |
+| Aprendendo o Coceito de Herança com Python | [Clique aqui].() |
+| Aplicado Encapsulamento em Python | [Clique aqui].() |
+| Conhecendo Polimorfismo em Python | [Clique aqui].() |
+| Interface e Classes Abstratas com Python | [Clique aqui].() |
+| Modelando o Sistema Bancário em POO com Python | [Clique aqui].() |
+| Decoradores, Iteradores e  Geradores com Python | [Clique aqui].() |
+| Lidando com Data, Hora e Fuso Horário no Python | [Clique aqui].() |
+| Manipulando Arquivos m Python | [Clique aqui].() |
+| Gerenciamento de Pacotes, Convenções e Boas Práticas Pyhton | [Clique aqui].() |
+| Explorando POO com Pyhton | [Clique aqui].() |
 
 ---
 
@@ -107,9 +107,9 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Banco de Dados SQL e NoSQL para Devs Backend | Certificado |
 |---|---|
-| Introdução a Banco de Dados Relacionais (SQL) | [Clique aqui]() |
-| Introdução a Banco de Dados NoSQL | [Clique aqui]() |
-| Explorando Banco de Dados Relacionais com Python DB API | [Clique aqui]() |
+| Introdução a Banco de Dados Relacionais (SQL) | [Clique aqui].() |
+| Introdução a Banco de Dados NoSQL | [Clique aqui].() |
+| Explorando Banco de Dados Relacionais com Python DB API | [Clique aqui].() |
 
 ---
 
@@ -118,9 +118,9 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Explorando o FastAPI na Prática com TDD | Certificado |
 |---|---|
-| Introdução a Aplicação Rest | [Clique aqui]() |
-| Desenvolvendo sua Primeira API com FastAPI, Python e Docker | [Clique aqui]() |
-| Criando uma API com FastAPI Utilizando TDD | [Clique aqui]() |
+| Introdução a Aplicação Rest | [Clique aqui].() |
+| Desenvolvendo sua Primeira API com FastAPI, Python e Docker | [Clique aqui].() |
+| Criando uma API com FastAPI Utilizando TDD | [Clique aqui].() |
 
 ---
 
@@ -129,12 +129,12 @@ Esse módulo é muito essencial para quem até então não tem conhecimento em P
 
 | Desmetificando os Pilares da Iteligência Artifial(IA) | Certificado |
 |---|---|
-| Aplicações Práticas de Inteligência Artificial | [Clique aqui]() |
-| Algoritmos e Aprendizado de Máquina | [Clique aqui]() |
-| Processamento de Linguagem Natural | [Clique aqui]() |
-| Visão Computacional | [Clique aqui]() |
-| O que são IAs Generativas | [Clique aqui]() |
-| Natural ou Fake Natty? Como Vencer na Era das IAs Generativas | [Clique aqui]() |
+| Aplicações Práticas de Inteligência Artificial | [Clique aqui].() |
+| Algoritmos e Aprendizado de Máquina | [Clique aqui].() |
+| Processamento de Linguagem Natural | [Clique aqui].() |
+| Visão Computacional | [Clique aqui].() |
+| O que são IAs Generativas | [Clique aqui].() |
+| Natural ou Fake Natty? Como Vencer na Era das IAs Generativas | [Clique aqui].() |
 
 
 
