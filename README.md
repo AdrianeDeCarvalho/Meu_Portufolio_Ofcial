@@ -1,11 +1,9 @@
 # Meu Portifólio
 ---
 
-:wave: Olá, eu sou Adriane de Carvalho, estou graduando Sistemas de Informação na UNISINOS.
+:wave: Olá! Sou Adriane de Carvalho, estudante de Sistemas de Informação e futura desenvolvedora Back-end Python. Este portfólio reúne meus principais projetos e aprendizados derante menha trajetória de estudos.
 
-Estou estudando sobre BackEnd com Python :snake:.
-
-Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback sobre cada um.
+Gostaria de compartilhar aqui com vocês os cursos que já fiz e dar um feedback sobre eles.
 
 | Curso em Vídeo | Certificado |
 |---|---|
